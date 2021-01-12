@@ -1,4 +1,4 @@
-### Hi there 👋 I am Harshada.
+# Hi there 👋 I am Harshada.
 
 
 
@@ -15,7 +15,6 @@
 - ⚡ Fun fact: ...
 
 -->
-<h1 align="center">Hi 👋, I'm Harshada Lavhate !</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Java**
