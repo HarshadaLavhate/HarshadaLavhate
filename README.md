@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 👨‍💻 All of my projects are available at [@HarshadaLavhate](@HarshadaLavhate)
+- 👨‍💻 All of my projects are available at [@HarshadaLavhate](Https://github.com/HarshadaLavhate)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
