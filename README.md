@@ -35,3 +35,11 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshadalavhate&show_icons=true&theme=midnight-purple" alt="harshadalavhate" /></p>
+
+<a href=https://github.com/HarshadaLavhate target=_blank>
+      <img
+        src=https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadaLavhate&bg_color=00000000&hide_title=true&langs_count=10
+        width=100%
+        height=100%
+      />
+</a>  
