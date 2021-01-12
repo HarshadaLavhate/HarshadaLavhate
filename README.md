@@ -1,8 +1,8 @@
 <h1 align=center> Hi there 👋 I am Harshada. </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🔭 I’m currently working on **Java**
-- 🌱 I’m currently learning **Programming**
-- 👨‍💻 All of my projects are available at [@HarshadaLavhate](Https://github.com/HarshadaLavhate)
+- 🔭 I’m currently working on **Java**   
+- 🌱 I’m currently learning **Programming**   
+- 👨‍💻 All of my projects are available at [@HarshadaLavhate](Https://github.com/HarshadaLavhate)   
 <h3 align="center">Connect with me:</h3>
 <a href="https://instagram.com/har_shu__2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="har_shu__2000" height="30" width="40" /></a>
 <h3 align="center">Languages and Tools:</h3>
