@@ -1,4 +1,21 @@
-#<h1 align="center">Hi 👋, I'm Harshada Lavhate !</h1>
+### Hi there 👋 I am Harshada.
+
+
+
+
+
+<!--
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Programming
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... 
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+<h1 align="center">Hi 👋, I'm Harshada Lavhate !</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Java**
@@ -18,20 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadalavhate&show_icons=true&locale=en&layout=compact" alt="harshadalavhate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshadalavhate&show_icons=true&locale=en" alt="harshadalavhate" /></p>
-#### Hi there 👋 I am Harshada.
-
-
-
-
-
-
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Programming
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
