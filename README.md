@@ -1,8 +1,8 @@
 <h1 align=center> Hi there 👋 I am Harshada. </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <li>
-  <ul>🔭 I’m currently working on **Java**</ul>
-  <ul>🌱 I’m currently learning **Programming**</ul>
+  <ul>🔭 I’m currently working on java</ul>
+  <ul>🌱 I’m currently learning Programming</ul>
 </li>
 <h3 align="center">Connect with me:</h3>
 <a href="https://instagram.com/har_shu__2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="har_shu__2000" height="30" width="40" /></a>
