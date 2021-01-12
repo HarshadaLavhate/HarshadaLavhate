@@ -6,6 +6,7 @@
   align="center">
   A passionate frontend developer from India
 </h3>
+<center>
 <li>
   <ul>
 	🔭 I’m currently working on java
@@ -14,6 +15,7 @@
 	🌱 I’m currently learning Programming
   </ul>
 </li>
+	
 <h3 
   align="center">
   Connect with me
